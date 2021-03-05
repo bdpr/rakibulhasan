@@ -216,6 +216,8 @@ body {
   .ex-w {
     width: 100%;
     height: auto;
-    padding-top: 5%;
+  }
+  .ex-g{
+      padding-bottom: 20px;
   }
 }
